@@ -1,0 +1,7 @@
+carrental:
+  data-file: data/reservations.json
+  max-rental-days: 30
+  fleet:
+    SEDAN: 5
+    SUV: 3
+    VAN: 2
